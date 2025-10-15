@@ -13,7 +13,7 @@ public class game_x_0 {
 
     public static void main(String[] args) {
 
-
+        little_code_branch_test.Ui();
 
         boolean gamestart = true;
 
